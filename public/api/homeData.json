@@ -1,0 +1,68 @@
+{
+  "success": true,
+  "data": {
+    "topicList": [
+      {
+        "id": 1,
+        "title": "社会热点",
+        "imgUrl": "//upload.jianshu.io/collections/images/76/12.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      },
+      {
+        "id": 2,
+        "title": "互联网",
+        "imgUrl": "//upload.jianshu.io/collections/images/13/%E5%95%8A.png?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64"
+      }
+    ],
+    "articleList": [
+      {
+        "id": 1,
+        "title": "我是标题1",
+        "desc": "内容数据测试内容数据测试内容数据测试内容数据测试内容数据测试内容数据测试",
+        "name": "作者",
+        "comment": 3,
+        "heart": 5,
+        "imgUrl": "//upload-images.jianshu.io/upload_images/3949843-3aab5f5aa4730654.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 2,
+        "title": "我是标题2",
+        "desc": "内容数据测试内容数据测试内容数据测试内容数据测试内容数据测试内容数据测试内容数据测试内容数据测试内容数据测试",
+        "name": "作者",
+        "comment": 3,
+        "heart": 5,
+        "imgUrl": "//upload-images.jianshu.io/upload_images/3949843-3aab5f5aa4730654.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      },
+      {
+        "id": 3,
+        "title": "我是标题3",
+        "desc": "内容数据测试内容数据测试内容数据测试内容数据测试内容数据测试内容数据测试",
+        "name": "作者",
+        "comment": 3,
+        "heart": 5,
+        "imgUrl": "//upload-images.jianshu.io/upload_images/3949843-3aab5f5aa4730654.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": 1,
+        "imgUrl": "https://picsum.photos/280/50"
+      },
+      {
+        "id": 2,
+        "imgUrl": "https://picsum.photos/280/50"
+      },
+      {
+        "id": 3,
+        "imgUrl": "https://picsum.photos/280/50"
+      },
+      {
+        "id": 4,
+        "imgUrl": "https://picsum.photos/280/50"
+      },
+      {
+        "id": 5,
+        "imgUrl": "https://picsum.photos/280/50"
+      }
+    ]
+  }
+}
